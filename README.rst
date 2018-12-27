@@ -1,4 +1,4 @@
 hr - Human Resources
 ====================
 
-Not sure what this is going to do except to manage users.
+Linux Academy exercise: Human resources cli app to manage users
